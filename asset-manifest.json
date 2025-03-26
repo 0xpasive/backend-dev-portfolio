@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/backend-dev-portfolio/static/css/main.2db4bd53.css",
+    "main.js": "/backend-dev-portfolio/static/js/main.bb32508b.js",
+    "static/js/453.3ce0a787.chunk.js": "/backend-dev-portfolio/static/js/453.3ce0a787.chunk.js",
+    "index.html": "/backend-dev-portfolio/index.html",
+    "main.2db4bd53.css.map": "/backend-dev-portfolio/static/css/main.2db4bd53.css.map",
+    "main.bb32508b.js.map": "/backend-dev-portfolio/static/js/main.bb32508b.js.map",
+    "453.3ce0a787.chunk.js.map": "/backend-dev-portfolio/static/js/453.3ce0a787.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2db4bd53.css",
+    "static/js/main.bb32508b.js"
+  ]
+}
