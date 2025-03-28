@@ -286,7 +286,7 @@ const Contact = () => {
                   <Box sx={{ mb: 4 }}>
                     <Box sx={{ display: 'flex', alignItems: 'center', mb: 2 }}>
                       <FaEnvelope color="#00ff88" size={20} />
-                      <Typography sx={{ ml: 2 }}>sunilpoudel059@gmail.com</Typography>
+                      <Typography sx={{ ml: 2 }}>contact@poudelsunil.info.np</Typography>
                     </Box>
                     <Box sx={{ display: 'flex', alignItems: 'center' }}>
                       <FaMapMarkerAlt color="#00ff88" size={20} />
